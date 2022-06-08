@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "HoE",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}

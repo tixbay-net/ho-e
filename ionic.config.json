@@ -1,0 +1,8 @@
+{
+  "name": "HoE",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "f4a2d79d"
+}
